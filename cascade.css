@@ -1,0 +1,9 @@
+.ButtonCheck {
+    box-shadow: 1em, 0,2em 0,2em 0em;
+    background-color: aqua;
+    border-radius: 5px;
+    width: 150px;
+    height: 65px;
+    margin-top: 1em;
+    font-size: 20px;
+}
